@@ -9,7 +9,7 @@ Web Development
 ##목표  
 GitHub 협업 경험 쌓기
 
-내용  
+(수정함)  
 ##취미  
 음악  
 운동  
