@@ -8,3 +8,12 @@ Web Development
 
 ##목표
 GitHub 협업 경험 쌓기
+
+내용
+#내가 관심있는 기술
+python
+javaScript
+spring
+...
+
+
